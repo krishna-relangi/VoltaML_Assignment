@@ -1,0 +1,9 @@
+Enivornments Used:
+Numpy
+Tensorflow-2.8.0
+Keras-2.8.0
+CV2-4.6.0
+OS
+Regular Expression
+TQDM-4.62.3
+Matplotlib- 3.4.3
